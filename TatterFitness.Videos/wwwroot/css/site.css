@@ -1,0 +1,9 @@
+﻿.selected-row {
+    background-color: yellow !important;
+}
+
+
+.exercise-text {
+    font-size: 30px;
+    color: blue;
+}
